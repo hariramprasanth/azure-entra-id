@@ -1,4 +1,4 @@
-# React Client Web App with Azure Entra ID
+# React Client Web App with Azure Entra ID 
 
 This app demonstrates authentication using Azure Entra ID (Microsoft Identity Platform) in a React app.
 After login, it displays the access token, ID token, their decoded contents, and fetches user details from Microsoft Graph API.
